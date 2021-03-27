@@ -50,7 +50,7 @@
 </tbody>
 </table>
 <div class="NOTE">
-<p>Nota</p>
+<p><b>Nota</b></p>
 <p><span data-ttu-id="77978-141"><a href="../admin/add-users/add-users?view=o365-worldwide" data-linktype="relative-path">Obtenga información sobre cómo crear cuentas de usuario</a> mediante el Centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="77978-141"><a href="../admin/add-users/add-users?view=o365-worldwide" data-linktype="relative-path">Learn how to create user accounts</a> by using the Microsoft 365 admin center.</span></span></p>
 <p><span data-ttu-id="77978-142">Para obtener una lista de recursos adicionales, vea <a href="../admin/add-users/?view=o365-worldwide" data-linktype="relative-path">Administrar usuarios y grupos.</a></span><span class="sxs-lookup"><span data-stu-id="77978-142">For a list of additional resources, see <a href="../admin/add-users/?view=o365-worldwide" data-linktype="relative-path">Manage users and groups</a>.</span></span></p>
 </div>
@@ -73,7 +73,7 @@ New-AzureADUser -DisplayName &quot;Caleb Sills&quot; -GivenName &quot;Caleb&quot
 <pre><code class="lang-powershell">New-MsolUser -DisplayName &lt;display name&gt; -FirstName &lt;first name&gt; -LastName &lt;last name&gt; -UserPrincipalName &lt;sign-in name&gt; -UsageLocation &lt;ISO 3166-1 alpha-2 country code&gt; -LicenseAssignment &lt;licensing plan name&gt; [-Password &lt;Password&gt;]
 </code></pre>
 <div class="NOTE">
-<p>Nota</p>
+<p><b>Nota</b></p>
 <p><span data-ttu-id="77978-151">PowerShell Core no admite el módulo de Microsoft Azure Active Directory para Windows PowerShell módulo y cmdlets que tienen <em>Msol</em> en su nombre.</span><span class="sxs-lookup"><span data-stu-id="77978-151">PowerShell Core doesn't support the Microsoft Azure Active Directory Module for Windows PowerShell module and cmdlets that have <em>Msol</em> in their name.</span></span> <span data-ttu-id="77978-152">Ejecute estos cmdlets desde Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="77978-152">Run these cmdlets from Windows PowerShell.</span></span></p>
 </div>
 <p><span data-ttu-id="77978-153">Para obtener una lista de los nombres de planes de licencias disponibles, use este comando:</span><span class="sxs-lookup"><span data-stu-id="77978-153">To list the available licensing plan names, use this command:</span></span></p>
@@ -91,7 +91,7 @@ LynneB@contoso.onmicrosoft.com,Lynne,Baxter,Lynne Baxter,US,contoso:ENTERPRISEPA
 ShawnM@contoso.onmicrosoft.com,Shawn,Melendez,Shawn Melendez,US,contoso:ENTERPRISEPACK
 </code></pre>
 <div class="NOTE">
-<p>Nota</p>
+<p><b>Nota</b></p>
 <p><span data-ttu-id="77978-158">Los nombres de columna y su orden en la primera fila del archivo CSV son arbitrarios.</span><span class="sxs-lookup"><span data-stu-id="77978-158">The column names and their order in the first row of the CSV file are arbitrary.</span></span> <span data-ttu-id="77978-159">Pero asegúrese de que el orden de los datos en el resto del archivo coincide con el orden de los nombres de columna.</span><span class="sxs-lookup"><span data-stu-id="77978-159">But make sure the order of the data in the rest of the file matches the order of the column names.</span></span> <span data-ttu-id="77978-160">Y use los nombres de columna para los valores de parámetro en el comando de PowerShell para Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="77978-160">And use the column names for the parameter values in the PowerShell for Microsoft 365 command.</span></span></p>
 </div>
 </li>
