@@ -1,80 +1,10 @@
-				</li>
-					</ul>
-					<button type="button" class="has-border contents-button button is-small is-text is-hidden-tablet has-inner-focus" aria-label="Contenido" data-bi-name="contents-expand">
-						<span class="icon">
-							<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
-						</span>
-						<span class="contents-expand-title">Tabla de contenido</span>
-					</button>
-					<div class="is-invisible"></div>
-					<div class="is-hidden-tablet level-item is-flexible level-right">
-						<button type="button" class="page-actions-button button is-small is-text is-hidden-tablet has-inner-focus has-border is-full-height  has-margin-left-small" aria-label="Acciones de página" data-bi-name="pageactions">
-							<span class="icon">
-								<span class="docon docon-more-vertical" aria-hidden="true"></span>
-							</span>
-						</button>
-					</div>
-				</div>
-			</div>
-
-
-
-		<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
-			<!-- liquid-tag banners sectional -->
-		</div>
-	</div>
-
-	<div class="mainContainer  uhf-container has-top-padding  has-default-focus" data-bi-name="body">
-
-		<div class="columns has-large-gaps is-gapless-mobile ">
-
-			<div id="left-container" class="left-container is-hidden-mobile column is-one-third-tablet is-one-quarter-desktop">
-				<nav id="affixed-left-container" class="is-fixed is-flex is-flex-column" role="navigation" aria-label="Principal"></nav>
-			</div>
-
-			<section class="primary-holder column is-two-thirds-tablet is-three-quarters-desktop">
-				<div class="columns is-gapless-mobile has-large-gaps ">
-
-
-				<div id="main-column" class="column  is-full is-four-fifths-desktop ">
-
-					<main id="main" role="main" class="content " data-bi-name="content" lang="es-es" dir="ltr">
-
-
-
-						<h1 id="add-several-users-at-the-same-time-to-microsoft-365---admin-help"><span data-ttu-id="9318c-105">Agregar varios usuarios al mismo tiempo a Microsoft 365: Ayuda para administradores</span><span class="sxs-lookup"><span data-stu-id="9318c-105">Add several users at the same time to Microsoft 365 - Admin Help</span></span></h1>
-
-						<ul class="metadata page-metadata" data-bi-name="page info" lang="es-es" dir="ltr">
-							<li>
-								<time class="is-invisible" data-article-date aria-label="Fecha de revisión del artículo" datetime="2021-03-20T15:18:48.592Z" data-article-date-source="git">20/03/2021</time>
-							</li>
-									<li class="readingTime">Tiempo de lectura: 5 minutos</li>
-								<li class="contributors-holder">
-									<ul class="facepile has-margin-left-none is-small" data-bi-name="contributors">
-														<li class="facepile-item">
-															<a href="https://github.com/KwekuA" title="KwekuA" aria-label="KwekuAPerfil de GitHub" data-src="https://github.com/KwekuA.png?size=32" data-contributor-name="KwekuA" class="facepile-item-coin"
-															>
-																<img class="facepile-item-coin-image durable-image" aria-hidden="true" src="https://github.com/KwekuA.png?size=32" role="presentation" onerror="this.className='facepile-item-coin-image durable-image has-error';"/>
-																<span class="facepile-item-coin-text durable-image-fallback facepile-item-teal"aria-hidden="true">K</span>
-															</a>
-														</li>
-									</ul>
-								</li>
-						</ul>
-
-						<nav id="center-doc-outline" class="doc-outline is-hidden-desktop" data-bi-name="intopic toc" role="navigation" aria-label="Esquema del artículo">
-							<h3>En este artículo</h3>
-						</nav>
-
-						<!-- <content> -->
-							<p><span data-ttu-id="9318c-106">Cada persona de su equipo necesita una cuenta de usuario antes de poder iniciar sesión y acceder a los servicios de Microsoft 365, como correo electrónico y Office.</span><span class="sxs-lookup"><span data-stu-id="9318c-106">Each person on your team needs a user account before they can sign in and access Microsoft 365 services, such as email and Office.</span></span> <span data-ttu-id="9318c-107">Si son muchas personas, puede agregar sus cuentas de una vez desde una hoja de cálculo de Excel u otro archivo guardado en formato CSV.</span><span class="sxs-lookup"><span data-stu-id="9318c-107">If you have a lot of people, you can add their accounts all at once from an Excel spreadsheet or other file saved in CSV format.</span></span> <span data-ttu-id="9318c-108"><a href="add-several-users-at-the-same-time?view=o365-worldwide#not-sure-what-csv-format-is" data-linktype="relative-path">¿No está seguro de qué formato CSV es?</a></span><span class="sxs-lookup"><span data-stu-id="9318c-108"><a href="add-several-users-at-the-same-time?view=o365-worldwide#not-sure-what-csv-format-is" data-linktype="relative-path">Not sure what CSV format is</a>?</span></span></p>
-<div class="NOTE">
-<p>Nota</p>
-<p><span data-ttu-id="9318c-109">Si no usa el nuevo Centro de administración de Microsoft 365, puede activarlo seleccionando <strong>Probar el nuevo centro de administración</strong> ubicado en la parte superior de la página de inicio.</span><span class="sxs-lookup"><span data-stu-id="9318c-109">If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the <strong>Try the new admin center</strong> toggle located at the top of the Home page.</span></span></p>
-</div>
-<h2 id="add-multiple-users-in-the-microsoft-365-admin-center"><span data-ttu-id="9318c-110">Agregar varios usuarios en el Centro de administración de Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9318c-110">Add multiple users in the Microsoft 365 admin center</span></span></h2>
+<h1 id="add-multiple-users-in-the-microsoft-365-admin-center"><span data-ttu-id="9318c-110">Agregar varios usuarios al mismo tiempo a Microsoft 365</span></h1>
 <ol>
-<li><p><span data-ttu-id="9318c-111">Inicie sesión en Microsoft 365 con su cuenta profesional o educativa.</span><span class="sxs-lookup"><span data-stu-id="9318c-111">Sign in to Microsoft 365 with your work or school account.</span></span></p>
+
+
+<h2 id="add-multiple-users-in-the-microsoft-365-admin-center"><span data-ttu-id="9318c-110">Agregar varios usuarios en el Centro de administración de Microsoft 365</span></h2>
+<ol>
+<li><p><span data-ttu-id="9318c-111">Inicie sesión en Microsoft 365 con su cuenta profesional o educativa.</span><span class="sxs-lookup"></span></p>
 </li>
 <li><p><span data-ttu-id="9318c-112">En el Centro de administración, elija <strong>Usuarios</strong> &gt; <strong>usuarios activos.</strong></span><span class="sxs-lookup"><span data-stu-id="9318c-112">In the admin center, choose <strong>Users</strong> &gt; <strong>Active users</strong>.</span></span></p>
 </li>
